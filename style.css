@@ -20,13 +20,7 @@ h1{
     margin-bottom: 0px;
     
 }
-/* 
-#image{
-    /* height: 600px;
-    width: 1000px; */
-    /* height: 92%;
-    width: 92%; */
-/* } */ 
+
 
 #img-div{
     background: white;
@@ -43,7 +37,7 @@ h1{
 
 #img-caption{
     margin: 15px 0 5px 0;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 ul{
     margin: auto;
@@ -53,10 +47,13 @@ ul{
 
 li{
     padding: 10px 0px;
-    font-size: 1.3rem;
+    font-size: 1rem;
     
 }
 
 blockquote{
     margin: 50px auto;
+}
+#wiki-link{
+    font-size: 1rem;
 }

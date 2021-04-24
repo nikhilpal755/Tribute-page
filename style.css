@@ -48,11 +48,12 @@ h1{
 ul{
     margin: auto;
     text-align: left;
-    width: 60vw;
+    width: 40vw;
 }
 
 li{
     padding: 10px 0px;
+    font-size: 1.3rem;
     
 }
 
